@@ -1,5 +1,5 @@
 ### Hi there 👋
-### 🌱 I’m currently learnin
+### 🌱 I’m currently learning
 
 <!--
 **Gokinha/Gokinha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
